@@ -47,6 +47,10 @@ You can deploy this bot anywhere.
 
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/Ragnarok360/syrax&branch=master&name=syrax"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
+<b>Render</b><br>
+<a href="https://render.com/deploy?repo=https://github.com/Ragnarok360/syrax">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
