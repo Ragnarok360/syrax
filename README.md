@@ -2,7 +2,7 @@
   <img src="https://c4.wallpaperflare.com/wallpaper/363/13/252/valorant-killjoy-valorant-digital-art-artwork-digital-hd-wallpaper-preview.jpg" alt="Valorant">
 </p>
 <h1 align="center">
-  <b> ᴀᴋᴀᴛsᴜᴋɪ </b>
+  <b>GAGA</b>
 </h1>
 
 ## ⚡️Features
