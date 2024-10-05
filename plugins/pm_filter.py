@@ -725,9 +725,9 @@ async def auto_filter(client, msg, spoll=False):
     else:
         generated_message = await message.reply_text(cap, reply_markup=InlineKeyboardMarkup(btn))
 
-    # Wait for 1 minute and delete the generated message
+    # Wait for 2 minute and delete the generated message
     if generated_message:
-        await asyncio.sleep(60)
+        await asyncio.sleep(120)
         try:
             await generated_message.delete()
         except Exception as e:
